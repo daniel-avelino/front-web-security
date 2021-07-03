@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"typescript.tsdk": "/Users/macos-daniel/Desktop/workspace/front-web/node_modules/typescript/lib"
+	}
 }

@@ -1,0 +1,28 @@
+.main-nav{
+    height: 70px;
+    padding-left: 40px;
+}
+
+.nav-title, .nav-title:hover{
+    color: #FFF;
+}
+
+.main-menu{
+    display: flex;
+    font-size: 18px;
+    width: 420px;
+    justify-content: space-between;
+}
+
+.main-menu a{
+    color: gainsboro;
+}
+
+.main-menu a:hover{
+    color: #FFF;
+}
+
+.main-menu a.selected{
+    font-weight: bold;
+    color: #FFF;
+}
